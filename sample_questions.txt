@@ -1,0 +1,11 @@
+# Questions for AI Agent
+
+1. What is the speed of light?
+
+2. Explain quantum computing in simple terms.
+
+3. Who invented the telephone?
+
+4. What is the Pythagorean theorem?
+
+5. Name three programming paradigms.
